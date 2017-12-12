@@ -1,0 +1,8 @@
+happy
+sad
+angry
+joful
+excited
+quick
+brown
+lazy

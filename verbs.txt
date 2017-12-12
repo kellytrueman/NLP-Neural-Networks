@@ -1,0 +1,10 @@
+clap
+dance
+jump
+run
+smile
+jumped
+don't
+deny
+is
+are
